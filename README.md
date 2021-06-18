@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JordT
+- 🌱 I’m currently learning everything I'll need to be a full-stack engineer with mutliple languages and cloud technologies!
