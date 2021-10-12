@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @JordT
-- 🌱 I’m currently learning everything I'll need to be a full-stack engineer with mutliple languages and cloud technologies!
+- 🌱 I’m learning everything I'll need to be a full-stack engineer with a focus on Javascript and Google Cloud Platform!
+- You can find my LinkedIn here: 
