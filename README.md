@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @JordT
 - 🌱 I’m learning everything I'll need to be a full-stack engineer with a focus on Javascript and Google Cloud Platform!
 - You can find my LinkedIn here: https://www.linkedin.com/in/jordan-thomson-708a23171
+- Check out some of my recent projects below! :shipit:
